@@ -1,3 +1,2 @@
-## 0.0.1
-
-* TODO: Describe initial release.
+## [1.0.0] - 16/04/2020.
+Added Icons for all the social networks
